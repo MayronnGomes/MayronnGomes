@@ -27,4 +27,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Updated README with current date"
-          git push https://x-access-token:${GH_TOKEN}@github.com/MayronnGomes/MayronnGomes.git
+          git push https://x-access-token:${GH_TOKEN}@github.com/MayronnGomes/MayronnGomes.git HEAD:main

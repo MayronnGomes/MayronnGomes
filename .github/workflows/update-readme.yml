@@ -1,6 +1,9 @@
 name: Update README with Current Date
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Atualiza diariamente às 18:30 UTC
     - cron: '30 18 * * *'

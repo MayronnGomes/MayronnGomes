@@ -37,6 +37,9 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
 
+      - name: Pull Latest Changes
+        run: git pull origin main
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"

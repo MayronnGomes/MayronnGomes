@@ -1,0 +1,28 @@
+name: Update README with current date
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          current_date=$(date +"%d-%m-%Y %H:%M:%S")
+          sed -i "s/Última atualização em.*/Última atualização em $current_date/" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated README with current date"
+          git push

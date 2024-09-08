@@ -56,13 +56,15 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayronnGomes&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayronnGomes&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</div>
+**🔧 My Development Process:**
+- **Planning:** Agile methodologies (Scrum/Kanban)
+- **Design:** User-centered design, wireframing
+- **Development:** Exploring testing techniques, CI/CD
+- **Deployment:** Docker
 
-<h3 align="center">📈 Weekly Coding Stats</h3>
+**💡 Projects I'm Currently Working On:**
+- [Soccer Fingers 3D](https://github.com/MayronnGomes/Soccer-Fingers-3D.git) - Dive into the world of Finger Football, a fast-paced and addictive game where strategy and precision are key. In this unique take on football, your only control is over the ball itself.
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -117,32 +119,3 @@ Python                   2 repos             ██████░░░░░�
 
  Last Updated on 08/09/2024 22:45:26 UTC
 <!--END_SECTION:waka-->
-
-<h3 align="center">🗓️ Commit Distribution</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-**🔧 My Development Process:**
-- **Planning:** Agile methodologies (Scrum/Kanban)
-- **Design:** User-centered design, wireframing
-- **Development:** Exploring testing techniques, CI/CD
-- **Deployment:** Docker
-
-**💡 Projects I'm Currently Working On:**
-- [Soccer Fingers 3D](https://github.com/MayronnGomes/Soccer-Fingers-3D.git) - Dive into the world of Finger Football, a fast-paced and addictive game where strategy and precision are key. In this unique take on football, your only control is over the ball itself.
-
-**🤝 Let's Connect:**
-- [LinkedIn](linkedin.com/in/mayronn-gomes-viana-039293302)
-
-**📫 Reach out to me via:**
-- Email: [cttmayronn@gmail.com](mailto:cttmayronn@gmail.com)
-- Telegram: [@dev_mayronn](https://t.me/dev_mayronn)
-
-Última atualização em 08-09-2024 22:42:47 UTC

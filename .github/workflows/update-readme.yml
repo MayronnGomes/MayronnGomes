@@ -20,9 +20,11 @@ jobs:
           sed -i "s/Última atualização em.*/Última atualização em $current_date/" README.md
 
       - name: Commit and Push Changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Updated README with current date"
-          git push
+          git push https://x-access-token:${GH_TOKEN}@github.com/MayronnGomes/MayronnGomes.git

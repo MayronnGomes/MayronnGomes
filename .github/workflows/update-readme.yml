@@ -18,7 +18,7 @@ jobs:
       - name: Update README
         run: |
           current_date=$(date +"%d-%m-%Y %H:%M:%S")
-          sed -i "s/Última atualização em.*/Última atualização em $current_date/" README.md
+          sed -i "s/Última atualização em.*/Última atualização em $current_date UTC/" README.md
 
       - name: Commit and Push Changes
         run: |

@@ -10,13 +10,8 @@ jobs:
   update-readme:
     name: Update Readme with Date and Coding Stats
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-        
-      - name: Update README with WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -28,13 +23,3 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Updated README with current date and WakaTime stats"
-          git push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}

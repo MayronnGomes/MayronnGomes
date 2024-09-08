@@ -1,9 +1,6 @@
 name: Update Waka README
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     # Atualiza diariamente às 19:00 UTC
     - cron: '00 19 * * *'
@@ -15,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        
       - name: Update README with WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -36,3 +36,5 @@ jobs:
           git add README.md
           git commit -m "Updated README with current date and WakaTime stats"
           git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

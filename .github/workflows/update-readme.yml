@@ -37,17 +37,12 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
 
-      - name: Debug Status
-        run: |
-          git status
-          git diff
-
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Updated README with current date and WakaTime stats" || git commit --allow-empty -m "No changes but forcing a commit"
+          git commit -m "Updated README with current date and WakaTime stats"
           git push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

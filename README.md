@@ -65,7 +65,6 @@
 **💡 Projects I'm Currently Working On:**
 - [Soccer Fingers 3D](https://github.com/MayronnGomes/Soccer-Fingers-3D.git) - Dive into the world of Finger Football, a fast-paced and addictive game where strategy and precision are key. In this unique take on football, your only control is over the ball itself.
 
-<!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -80,6 +79,7 @@
  > 
 **I'm an Early 🐤** 
 
+<!--START_SECTION:waka-->
 ```text
 🌞 Morning                112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 🌆 Daytime                1011 commits        █████████████░░░░░░░░░░░░   53.15 % 

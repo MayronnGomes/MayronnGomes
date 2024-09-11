@@ -37,6 +37,9 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -64,6 +67,7 @@
 
 **💡 Projects I'm Currently Working On:**
 - [Soccer Fingers 3D](https://github.com/MayronnGomes/Soccer-Fingers-3D.git) - Dive into the world of Finger Football, a fast-paced and addictive game where strategy and precision are key. In this unique take on football, your only control is over the ball itself.
+- DevJobsJunior🔒 - DevJobsJunior is a website focused on advertising job openings for junior web developers using the Web Scraping process.
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 

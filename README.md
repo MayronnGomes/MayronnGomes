@@ -107,7 +107,8 @@ Sunday                   198 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               8 mins              ████████████████████████░   94.72 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,5 +123,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2024 19:14:38 UTC
+ Last Updated on 21/11/2024 19:14:52 UTC
 <!--END_SECTION:waka-->

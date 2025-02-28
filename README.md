@@ -74,6 +74,8 @@
 
 > 📦 64.3 kB Used in GitHub's Storage 
  > 
+> 🏆 43 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -105,8 +107,8 @@ Sunday                   418 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 3 mins        ████████████████████████░   97.40 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Python                   5 hrs 18 mins       ████████████████████████░   96.11 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,5 +123,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2025 19:15:22 UTC
+ Last Updated on 28/02/2025 19:17:09 UTC
 <!--END_SECTION:waka-->

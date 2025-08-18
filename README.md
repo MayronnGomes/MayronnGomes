@@ -66,7 +66,6 @@
 - **Deployment:** Docker
 
 **💡 Projects I'm Currently Working On:**
-- [Soccer Fingers 3D](https://github.com/MayronnGomes/Soccer-Fingers-3D.git) - Dive into the world of Finger Football, a fast-paced and addictive game where strategy and precision are key. In this unique take on football, your only control is over the ball itself.
 - [DevJobsJunior](https://github.com/MayronnGomes/dev-jobs-junior-frontend.git) - DevJobsJunior is a website focused on advertising job openings for junior web developers using the Web Scraping process.
 
 <!--START_SECTION:waka-->

@@ -11,62 +11,56 @@
   <a href = "https://t.me/dev_mayronn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
+### 👋 About Me
+I'm a Fullstack Developer with experience in developing, deploying, and maintaining web systems. I have worked on academic and research projects like **Usinn Modeler** and **Sistema Astro**, using Node.js, React, and modern development practices such as Git, CI/CD, and RESTful APIs. I enjoy collaborating in agile teams, improving processes, and creating solutions that deliver security, agility, and efficiency.
+
+---
+
+### 💡 Projects & Experience
+
+- [**Usinn Modeler**](https://usinnmodeler.vercel.app/) – Developed at **LUDI Lab**, enabling the creation of **navigation and interaction diagrams using USINN notation**.
+- [**Sistema Astro – Frontend**](https://github.com/MayronnGomes/Astro-FrontEnd) / [**Backend**](https://github.com/MayronnGomes/Astro-BackEnd) – Academic project for managing extension activities at UFC Campus Russas. Fullstack modular architecture with documentation and task organization.  
+- [**DevJobsJunior**](https://github.com/MayronnGomes/dev-jobs-junior-frontend) – Website for advertising junior web developer job openings using web scraping.
+
+---
+
+### 🔧 Skills & Tools
+
+**Front-End:** HTML5, CSS3, JavaScript, React.js, Next.js, Vue.js  
+**Back-End:** Node.js, RESTful APIs  
+**Databases:** MySQL, PostgreSQL  
+**DevOps & Tools:** Git, Docker, CI/CD, versioning, deployment  
+**Languages:** JavaScript, Python, C, TypeScript  
+**Methodologies:** Scrum, Kanban, Pair Programming  
+**Collaboration Tools:** Google Docs, Microsoft 365, Slack, Zoom, Discord  
+
 <div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
+<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
 </div>
 
-<br/>
+---
 
-**🔧 My Development Process:**
-- **Planning:** Agile methodologies (Scrum/Kanban)
-- **Design:** User-centered design, wireframing
-- **Development:** Exploring testing techniques, CI/CD
-- **Deployment:** Docker
+### 🎓 Education
+**BSc in Computer Science** – Summa Cum Laude  
+Universidade Federal do Ceará – Campus Russas (2020–2024)
 
-**💡 Projects I'm Currently Working On:**
-- [DevJobsJunior](https://github.com/MayronnGomes/dev-jobs-junior-frontend.git) - DevJobsJunior is a website focused on advertising job openings for junior web developers using the Web Scraping process.
+---
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
@@ -75,12 +69,11 @@
  > 
 > 📦 64.4 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
- > 
+ >
+
 **I'm an Early 🐤** 
 
 ```text

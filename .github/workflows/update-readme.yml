@@ -10,7 +10,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v4
+      - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -27,4 +27,3 @@ jobs:
           SHOW_PROFILE_VIEWS: "true"
           SHOW_SHORT_INFO: "true"
           COMMIT_BY_ME: "true"
-          IGNORED_REPOS: ""

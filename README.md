@@ -63,17 +63,13 @@ Universidade Federal do Ceará – Campus Russas (2020–2024)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2033%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 64.4 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2025
+> 🏆 232 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
@@ -83,8 +79,8 @@ Universidade Federal do Ceará – Campus Russas (2020–2024)
 
 ```text
 🌞 Morning                335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-🌆 Daytime                3625 commits        ███████████████░░░░░░░░░░   59.67 % 
-🌃 Evening                1934 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌆 Daytime                3627 commits        ███████████████░░░░░░░░░░   59.68 % 
+🌃 Evening                1934 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
 🌙 Night                  181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -92,8 +88,8 @@ Universidade Federal do Ceará – Campus Russas (2020–2024)
 ```text
 Monday                   954 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 Tuesday                  1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Wednesday                651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Thursday                 1170 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Wednesday                651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Thursday                 1172 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 Friday                   1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 Saturday                 790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 Sunday                   452 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
@@ -103,18 +99,7 @@ Sunday                   452 commits         ██░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -131,5 +116,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 20:08:06 UTC
+ Last Updated on 09/10/2025 20:18:43 UTC
 <!--END_SECTION:waka-->

@@ -75,8 +75,6 @@ Universidade Federal do Ceará – Campus Russas (2020–2024)
  > 
 > 🏆 234 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 4 Private Repositories 

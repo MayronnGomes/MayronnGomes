@@ -67,7 +67,7 @@ Universidade Federal do Ceará – Campus Russas (2020–2024)
 
 > 📦 64.4 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2025
+> 🏆 239 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,8 @@ Sunday                   452 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   7 mins              ████████████████░░░░░░░░░   64.17 % 
+TypeScript               4 mins              █████████░░░░░░░░░░░░░░░░   35.83 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +117,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 20:40:13 UTC
+ Last Updated on 10/10/2025 19:18:34 UTC
 <!--END_SECTION:waka-->
